@@ -859,7 +859,7 @@ MonoBehaviour:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"dialog","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.TextAsset,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 4900000, guid: 8f75caab785863d4e92920147b64f91b, type: 3}
+    - {fileID: 4900000, guid: f8a0db94feeffce41afc47093421d2b0, type: 3}
 --- !u!65 &2082996607
 BoxCollider:
   m_ObjectHideFlags: 0
